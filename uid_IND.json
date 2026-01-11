@@ -1,0 +1,25 @@
+{
+  "players": [
+    {
+      "uid": "12345678",
+      "name": "INDPlayer1",
+      "level": 15
+    },
+    {
+      "uid": "87654321",
+      "name": "INDPlayer2",
+      "level": 20
+    }
+  ],
+  "guests": [
+    {
+      "guest_uid": "4261644646",
+      "password": "F76347B4FFFB868E328F7920BD2AD1B9F9D8EB8125C3D43907DDD983C05D7002"
+    },
+    {
+      "guest_uid": "GUESTID002",
+      "password": "anotherpw"
+    }
+    // ... more guest accounts
+  ]
+}
